@@ -30,10 +30,10 @@ education:
     year: 
   - course: M.E. in Sociology
     institution: School of Social Sciences, Nanjing University
-    year: 2020
+    year: 2023
   - course: B.E. in Sociology
     institution: School of Public Administration, Central South University
-    year: 2016
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
