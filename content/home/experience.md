@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Hunan
     date_start: '2016-01-01'
-    date_end: '2020-06-31'
+    date_end: '2020-06-30'
     description: Modeling.
 
 design:
