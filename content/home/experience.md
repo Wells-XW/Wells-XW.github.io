@@ -29,12 +29,7 @@ experience:
     location: 
     date_start: '2018.06'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description:
         
   - title: Developer
     company: * University
